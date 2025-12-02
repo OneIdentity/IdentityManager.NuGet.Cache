@@ -2,4 +2,4 @@
 
 # IdentityManager.NuGet.Cache
 
-This repository container packages for deploying a local NuGet cache containing the requireed NuGet packages for compiling the Identity Manager database. 
+This repository contains packages for deploying a local NuGet cache with the NuGet packages required to compile the Identity Manager database in an air gapping environment. 
