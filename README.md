@@ -8,4 +8,4 @@ This repository contains packages for deploying a local [NuGet](https://www.nuge
 
 This repository has branches for every supported version of One Identity Manager. Please use the corresponding branch for further information.
 
-- [10.0 LTS](/github/OneIdentity/IdentityManager.NuGet.Cache/tree/v100))
+- [10.0 LTS](/github/OneIdentity/IdentityManager.NuGet.Cache/tree/v100)
