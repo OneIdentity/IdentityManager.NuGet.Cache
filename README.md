@@ -6,12 +6,14 @@ This repository contains packages for deploying a local [NuGet](https://www.nuge
 
 ## Version information
 
-The NuGet packages provided are for version 9.3.1 (v93-311513) of One Identity Manager.
+The NuGet packages provided are for version 9.3.1 (v93-398538) of One Identity Manager.
+
+This version adds System.Security.Cryptography.Xml 8.0.5 and System.Security.Cryptography.Pkcs 8.0.2 (fix for CVE-2026-47304). All packages of the previous cache for 9.3.1 (v93-311513) are still included unchanged, so the cache can also be used for 9.3.1 (v93-311513) installations.
 
 ## Files included
 
-- ExternalNugetPackages_9.3.1-311513.zip (SHA256: 1A468CAC2A65A295E78CB51F5CC2E0DD77FC2A0D51E46B89EA155355487F47F5)
-- ExternalNugetPackages_9.3.1-311513.zip.sha256 (SHA256: D9F1F14649DAF84A94CE1C00C2180EFE5D99F44DB943FF6E6BEC263E1AAA04D6)
+- ExternalNugetPackages_9.3.1-398538.zip (SHA256: 4C75812F7D4077139E7B42581A5DE223EE7CAE8267A68BB709FD6D162C9FF697)
+- ExternalNugetPackages_9.3.1-398538.zip.sha256 (SHA256: B902331F741A86B5FC442AD4339F0E425C83AC931CC65A714C66DDA808593DF5)
 
 ## Default module coverage
 
